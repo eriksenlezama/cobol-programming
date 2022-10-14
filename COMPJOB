@@ -4,6 +4,6 @@
       //**************************************************              00021000
       //STEP1 EXEC IGYWCL,LNGPRFX=IGY420,REGION=0M,                     00030007
       //      PARM='LIB,OBJECT,APOST,TEST'                              00031007
-      //SYSIN        DD DSN=KC03D65.TSU.COBOL(ASSIG002),DISP=SHR        00040038
+      //SYSIN        DD DSN=KC03D65.TSU.COBOL(ASSIG003),DISP=SHR        00040038
       //COBOL.SYSLIB DD DSN=CEE.SCEESAMP,DISP=SHR                       00041000
-      //LKED.SYSLMOD DD DSN=KC03D65.TSU.LOAD(ASSIG002),DISP=SHR         00050038
+      //LKED.SYSLMOD DD DSN=KC03D65.TSU.LOAD(ASSIG003),DISP=SHR         00050038
