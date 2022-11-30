@@ -1,0 +1,69 @@
+1DATE:  11/06/2022    STUDENT REGISTRATION SUMMARY REPORT           PAGE:    1
+ TIME:  23:35                                                       SRREP2
+0                                                          NUMBER OF  NUMBER
+ CLASS      MAJOR  STUDENT ID   STUDENT NAME               COURSES    OF UNITS
+ ---------  -----  -----------  -------------------------  ---------  --------
+0FRESHMAN   BIOL   101-31-0021  SCOTT FORMAN                    1         3
+                   111-98-0741  ROGER HARBRACE                  1         3
+                   111-23-0333  SHARON CLARK                    4        12
+                   112-32-0341  DONALD PHILLIPS                 6        18
+0TOTALS FOR MAJOR -  STUDENTS:      4                          12        36
+-           BUS    232-23-0482  ELAINE ROBERTS                  5        16
+                   245-78-0031  MARIANNE BUSBEE                 4        12
+0TOTALS FOR MAJOR -  STUDENTS:      2                           9        28
+-           CS     265-67-0612  ELIZABETH HERNANDEZ             4        12
+0TOTALS FOR MAJOR -  STUDENTS:      1                           4        12
+0TOTALS FOR CLASS -  STUDENTS:      7                          25        76
+-SOPHOMORE  ACCT   333-56-0789  ENRIQUE OTHON JR.               4        12
+                   400-00-0011  DANIEL SMITH                    1         3
+                   410-00-0000  KEVIN MOLLOY                    6        18
+0TOTALS FOR MAJOR -  STUDENTS:      3                          11        33
+-           CS     424-98-0702  HOWARD STUTZMAN                 4        12
+                   427-90-0002  CHARLES PITHERINGTON            4        12
+                   444-78-0031  JOHN RUTHERFORD                 5        15
+0TOTALS FOR MAJOR -  STUDENTS:      3                          13        39
+0TOTALS FOR CLASS -  STUDENTS:      6                          24        72
+-JUNIOR     ACCT   449-78-0097  DEBORAH A TUDOR                 1         3
+0TOTALS FOR MAJOR -  STUDENTS:      1                           1         3
+-           BIOL   555-56-0789  EDNA PENNY                      4        12
+                   580-78-0901  THOMAS CONNELLY                 1         3
+0TOTALS FOR MAJOR -  STUDENTS:      2                           5        15
+-           CENG   580-78-0905  EDWARD KENT                     1         3
+0TOTALS FOR MAJOR -  STUDENTS:      1                           1         3
+1DATE:  11/06/2022    STUDENT REGISTRATION SUMMARY REPORT           PAGE:    2
+ TIME:  23:35                                                       SRREP2
+0                                                          NUMBER OF  NUMBER
+ CLASS      MAJOR  STUDENT ID   STUDENT NAME               COURSES    OF UNITS
+ ---------  -----  -----------  -------------------------  ---------  --------
+0JUNIOR     CS     580-78-0909  HELEN OSTER                     1         3
+                   580-78-0919  LOU BURNS                       1         3
+0TOTALS FOR MAJOR -  STUDENTS:      2                           2         6
+0TOTALS FOR CLASS -  STUDENTS:      6                           9        27
+-SENIOR     BIOL   610-41-0234  DAVID L STUCKEY                 6        18
+                   630-54-0224  MARY LOU BINKLEY                1         3
+                   665-35-0992  FRANK E PARRISH                 4        12
+                   700-65-0421  GREGORY G LOWE                  4        12
+                   703-41-0234  BERNADETTE CHOW                 4        13
+                   706-35-0992  HAROLD KANTOR                   1         3
+0TOTALS FOR MAJOR -  STUDENTS:      6                          20        61
+-           CHE    766-78-0901  JOHN SCHILLO                    1         3
+                   793-34-0224  GAIL O BLAKELY                  6        18
+                   822-26-0789  JERRY KIRBY                     5        15
+                   826-26-0789  HOWARD HILL                     4        12
+0TOTALS FOR MAJOR -  STUDENTS:      4                          16        48
+-           CS     835-26-0789  KIM MEAD                        6        18
+                   908-54-0224  MARY WILSON                     5        15
+                   950-87-0211  JOEY BUNEFEY                    4        13
+                   951-87-0212  PHIL HARRIS                     4        12
+                   952-83-0721  PHILLIP MILLER                  4        12
+                   953-51-0234  MICHAEL FORRESTER               4        12
+                   954-26-0789  POLLY LUCERNE                   4        12
+                   955-87-0211  FREDERIC PILOT                  3         9
+                   960-87-0212  PHIL FOSSIL                     3         9
+0TOTALS FOR MAJOR -  STUDENTS:      9                          37       112
+-           ECO    977-99-0992  PHIL HERRERA                    1         3
+0TOTALS FOR MAJOR -  STUDENTS:      1                           1         3
+-           MKT    983-36-0212  PETER FIELDS                    1         3
+0TOTALS FOR MAJOR -  STUDENTS:      1                           1         3
+0TOTALS FOR CLASS -  STUDENTS:     21                          75       227
+0GRAND TOTALS -      STUDENTS:     40                         133       402

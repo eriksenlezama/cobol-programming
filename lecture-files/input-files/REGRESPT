@@ -1,0 +1,198 @@
+1DATE:  11/06/2022          STUDENT REGISTRATION REPORT                PAGE:    1
+ TIME:  23:20                                                          SRPT001
+0CLASS      STUDENT ID   STUDENT NAME                 COURSE TITLE          UNITS
+ ---------  -----------  -------------------------    --------------------  -----
+0FRESHMAN   101-23-1021  SCOTT FORMAN                 HUMAN ECOLOGY           3
+                                                                              3
+0           111-29-8741  ROGER HARBRACE               AMERICAN HIST PRECIV    3
+                                                                              3
+0           111-32-3333  SHARON CLARK                 INTERMEDIATE ACCOUNT    3
+                                                      LIFE SCIENCE            3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0           112-23-2341  DONALD PHILLIPS              HUMAN ECOLOGY           3
+                                                      MASTERPIECES IN LIT     3
+                                                      BEGINNING ALGEBRA       3
+                                                      ANALYTICAL GEOMETRY     3
+                                                      OF MAN AND BONES        3
+                                                      DISSECTING FROGS        3
+                                                                             18
+0           232-32-3482  ELAINE ROBERTS               FINANCIAL ACCOUNTING    3
+                                                      INTERMEDIATE ACCOUNT    3
+                                                      LIFE SCIENCE            3
+                                                      HUMAN ECOLOGY           3
+                                                      PASCAL PROGRAMMING      4
+                                                                             16
+0           245-67-8031  MARIANNE BUSBEE              ACCOUNTING PROBLEMS     3
+                                                      NATURE-PHOTOGRAPHY      3
+                                                      ASSEMBLY LANG PROG      3
+                                                      ANCIENT LITERATURE      3
+                                                                             12
+0           265-86-7612  ELIZABETH HERNANDEZ          INTERMEDIATE ACCOUNT    3
+                                                      LIFE SCIENCE            3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0TOTAL STUDENTS IN CLASS:        7                          TOTAL UNITS:     76
+-SOPHOMORE  333-45-6789  ENRIQUE OTHON JR.            MANAGERIAL ACCOUNTNG    3
+                                                      HUMAN ECOLOGY           3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0           400-00-0011  DANIEL SMITH                 LINEAR ALGEBRA          3
+                                                                              3
+1DATE:  11/06/2022          STUDENT REGISTRATION REPORT                PAGE:    2
+ TIME:  23:20                                                          SRPT001
+0CLASS      STUDENT ID   STUDENT NAME                 COURSE TITLE          UNITS
+ ---------  -----------  -------------------------    --------------------  -----
+0SOPHOMORE  410-00-0000  KEVIN MOLLOY                 HUMAN ECOLOGY           3
+                                                      MASTERPIECES IN LIT     3
+                                                      BEGINNING ALGEBRA       3
+                                                      ANALYTICAL GEOMETRY     3
+                                                      OF MAN AND BONES        3
+                                                      DISSECTING FROGS        3
+                                                                             18
+0           424-09-8702  HOWARD STUTZMAN              INTERMEDIATE ACCOUNT    3
+                                                      LIFE SCIENCE            3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0           427-09-0002  CHARLES PITHERINGTON         ACCOUNTING PROBLEMS     3
+                                                      NATURE-PHOTOGRAPHY      3
+                                                      ASSEMBLY LANG PROG      3
+                                                      ANCIENT LITERATURE      3
+                                                                             12
+0           444-67-8031  JOHN RUTHERFORD              AUDITING                3
+                                                      HUMAN ECOLOGY           3
+                                                      NATURE-PHOTOGRAPHY      3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             15
+0TOTAL STUDENTS IN CLASS:        6                          TOTAL UNITS:     72
+-JUNIOR     449-07-8097  DEBORAH A TUDOR              LINEAR ALGEBRA          3
+                                                                              3
+0           555-45-6789  EDNA PENNY                   ACCOUNTING PROBLEMS     3
+                                                      NATURE-PHOTOGRAPHY      3
+                                                      ASSEMBLY LANG PROG      3
+                                                      ANCIENT LITERATURE      3
+                                                                             12
+0           580-67-8901  THOMAS CONNELLY              INTERMEDIATE ACCOUNT    3
+                                                                              3
+0           580-67-8905  EDWARD KENT                  LIFE SCIENCE            3
+                                                                              3
+0           580-67-8909  HELEN OSTER                  MASTERPIECES IN LIT     3
+                                                                              3
+0           580-67-8919  LOU BURNS                    AMERICAN HIST PRECIV    3
+                                                                              3
+0TOTAL STUDENTS IN CLASS:        6                          TOTAL UNITS:     27
+1DATE:  11/06/2022          STUDENT REGISTRATION REPORT                PAGE:    3
+ TIME:  23:20                                                          SRPT001
+0CLASS      STUDENT ID   STUDENT NAME                 COURSE TITLE          UNITS
+ ---------  -----------  -------------------------    --------------------  -----
+0SENIOR     610-44-1234  DAVID L STUCKEY              HUMAN ECOLOGY           3
+                                                      MASTERPIECES IN LIT     3
+                                                      BEGINNING ALGEBRA       3
+                                                      ANALYTICAL GEOMETRY     3
+                                                      OF MAN AND BONES        3
+                                                      DISSECTING FROGS        3
+                                                                             18
+0           630-75-4224  MARY LOU BINKLEY             HUMAN ECOLOGY           3
+                                                                              3
+0           665-43-5992  FRANK E PARRISH              INTERNSHIP              3
+                                                      DATA STRUCTURES         3
+                                                      ADV. POETRY WRITING     3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             12
+0           700-86-5421  GREGORY G LOWE               INTERMEDIATE ACCOUNT    3
+                                                      LIFE SCIENCE            3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0           703-44-1234  BERNADETTE CHOW              LIFE SCIENCE            3
+                                                      HUMAN ECOLOGY           3
+                                                      INDEPENDENT STUDY       3
+                                                      PASCAL PROGRAMMING      4
+                                                                             13
+0           706-43-5992  HAROLD KANTOR                LINEAR ALGEBRA          3
+                                                                              3
+0           766-67-8901  JOHN SCHILLO                 DATA STRUCTURES         3
+                                                                              3
+0           793-33-4224  GAIL O BLAKELY               HUMAN ECOLOGY           3
+                                                      MASTERPIECES IN LIT     3
+                                                      BEGINNING ALGEBRA       3
+                                                      ANALYTICAL GEOMETRY     3
+                                                      OF MAN AND BONES        3
+                                                      DISSECTING FROGS        3
+                                                                             18
+0           822-32-6789  JERRY KIRBY                  FINANCIAL ACCOUNTING    3
+                                                      HUMAN ECOLOGY           3
+                                                      DATA STRUCTURES         3
+                                                      ADV. FICTION WRITING    3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             15
+1DATE:  11/06/2022          STUDENT REGISTRATION REPORT                PAGE:    4
+ TIME:  23:20                                                          SRPT001
+0CLASS      STUDENT ID   STUDENT NAME                 COURSE TITLE          UNITS
+ ---------  -----------  -------------------------    --------------------  -----
+0SENIOR     826-32-6789  HOWARD HILL                  ACCOUNTING PROBLEMS     3
+                                                      NATURE-PHOTOGRAPHY      3
+                                                      ASSEMBLY LANG PROG      3
+                                                      ANCIENT LITERATURE      3
+                                                                             12
+0           835-32-6789  KIM MEAD                     HUMAN ECOLOGY           3
+                                                      DATA STRUCTURES         3
+                                                      ADV. POETRY WRITING     3
+                                                      WHITMAN & DICKINSON     3
+                                                      AMERICAN HIST PRECIV    3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             18
+0           908-75-4224  MARY WILSON                  ASSEMBLY LANG PROG      3
+                                                      MASTERPIECES IN LIT     3
+                                                      MODERN AMERICAN AUTH    3
+                                                      AMERICAN HIST POSTCI    3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             15
+0           950-38-7211  JOEY BUNEFEY                 LIFE SCIENCE            3
+                                                      PASCAL PROGRAMMING      4
+                                                      ANCIENT LITERATURE      3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             13
+0           951-38-7212  PHIL HARRIS                  INTERNSHIP              3
+                                                      INTRO COMPUTER ORG      3
+                                                      SHORT STORY MASTER      3
+                                                      AMERICAN HIST PRECIV    3
+                                                                             12
+0           952-38-3721  PHILLIP MILLER               FINANCIAL ACCOUNTING    3
+                                                      AUDITING                3
+                                                      LIFE SCIENCE            3
+                                                      AMERICAN HIST POSTCI    3
+                                                                             12
+0           953-45-1234  MICHAEL FORRESTER            INDEPENDENT STUDY       3
+                                                      MASTERPIECES IN LIT     3
+                                                      ASSEMBLY LANG PROG      3
+                                                      NEWSPAPER JOURNALISM    3
+                                                                             12
+0           954-32-6789  POLLY LUCERNE                INDEPENDENT STUDY       3
+                                                      ASSEMBLY LANG PROG      3
+                                                      MASTERPIECES IN LIT     3
+                                                      AMERICAN HIST POSTCI    3
+                                                                             12
+1DATE:  11/06/2022          STUDENT REGISTRATION REPORT                PAGE:    5
+ TIME:  23:20                                                          SRPT001
+0CLASS      STUDENT ID   STUDENT NAME                 COURSE TITLE          UNITS
+ ---------  -----------  -------------------------    --------------------  -----
+0SENIOR     955-38-7211  FREDERIC PILOT               MASTERPIECES IN LIT     3
+                                                      ADV. POETRY WRITING     3
+                                                      WHITMAN & DICKINSON     3
+                                                                              9
+0           960-38-7212  PHIL FOSSIL                  INTRO COMPUTER ORG      3
+                                                      DATA STRUCTURES         3
+                                                      WHITMAN & DICKINSON     3
+                                                                              9
+0           977-99-9992  PHIL HERRERA                 DATA STRUCTURES         3
+                                                                              3
+0           983-73-6212  PETER FIELDS                 OF LIFE AND PLANTS      3
+                                                                              3
+0TOTAL STUDENTS IN CLASS:       21                          TOTAL UNITS:    227
+-TOTAL STUDENTS REGISTERED:     40                          TOTAL UNITS:    402
